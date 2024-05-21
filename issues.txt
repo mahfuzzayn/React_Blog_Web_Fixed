@@ -1,0 +1,5 @@
+1. Missed {...props} in Input component
+2. Didn't make any return statement in auth.js getCurrentUser() async function.
+
+// Optional
+1. Didn't added error message displaying functionalities in form of Login, Sign up
