@@ -1,4 +1,4 @@
 ## React Blog Web Fixed
 
-Author: Musfiq Raiyan
-Problem Solver: Mahfuz Zayn
+* Author: Musfiq Raiyan
+* Problem Solver: Mahfuz Zayn
